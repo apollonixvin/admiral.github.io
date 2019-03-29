@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1" xmlns:xhtml="http://www.w3.org/1999/xhtml">
+  <url>
+    <loc>http://admiral.com/index.html</loc>
+    <lastmod>2019-03-29</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.5</priority>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 370px)" href="http://admiral.com/phone/index.html"/>
+    <xhtml:link rel="alternate" media="only screen and (max-width: 960px)" href="http://admiral.com/tablet/index.html"/>
+    <image:image>
+      <image:loc>http://admiral.com/images/40178321_143776559885484_790158374829293568_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/13723915_1758419824369732_3778974431584246675_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/17632097_1869958276549219_3100017276524384506_o.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/17505394_1869943259884054_1438002393349673218_o1.jpg</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/%D1%88%D1%82%D1%83%D1%80%D0%B2%D0%B0%D0%BB.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/facebook-512.png</image:loc>
+    </image:image>
+    <image:image>
+      <image:loc>http://admiral.com/images/telegram_png14.png</image:loc>
+    </image:image>
+  </url>
+</urlset>

@@ -1,0 +1,160 @@
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="admiral.com" resolutions="1x" timestamp="1553844544707">
+  <folder name="css">
+    <file name="site_global.css" crc="4283886908"/>
+    <file name="index.css" crc="408136256" ref="index"/>
+    <file name="nomq_index.css" crc="4036570479" ref="index"/>
+  </folder>
+  <folder name="scripts">
+    <file name="jquery-1.8.3.min.js" crc="209076791" ref="phone>index:tablet>index:index"/>
+    <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
+    <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
+    <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
+    <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
+    <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:tablet>index:index"/>
+    <file name="touchswipe.js" crc="4075097462" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
+    <file name="form_check.php" crc="4020933626" ref="phone>index"/>
+    <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
+    <file name="form_process.php" crc="37464564" ref="phone>index"/>
+    <file name="form-u2999.php" crc="4025221493" ref="phone>index"/>
+    <file name="require.js" crc="7928878" ref="phone>index:tablet>index:index"/>
+    <file name="form-u2282.php" crc="176447582" ref="tablet>index"/>
+    <file name="form-u652.php" crc="403639773" ref="index"/>
+    <file name="jquery.museresponsive.js" crc="527716135" ref="index"/>
+  </folder>
+  <folder name="images">
+    <file name="яхт-клуб-admiral-одесса-favicon.ico" crc="3936868234" ref="phone>index"/>
+    <file name="40178321_143776559885484_790158374829293568_o.jpg" crc="70665837" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="blank.gif" crc="4208392903" ref="phone>index:tablet>index:index"/>
+    <file name="13723915_1758419824369732_3778974431584246675_o.jpg" crc="533292675" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17632097_1869958276549219_3100017276524384506_o.jpg" crc="338790698" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="17505394_1869943259884054_1438002393349673218_o1.jpg" crc="9781014" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="loading.gif" crc="3815509949" ref="phone>index:tablet>index:index"/>
+    <file name="u3053-4.png" crc="3818403598" ref="phone>index"/>
+    <file name="u3057-7.png" crc="3789720667" ref="phone>index"/>
+    <file name="штурвал.png" crc="4017427806" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="facebook-512.png" crc="3823129424" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="telegram_png14.png" crc="4137163977" seo="true" ref="phone>index:tablet>index:index">
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+      <caption webpage="index" alt=""/>
+    </file>
+    <file name="u3062_states.png" crc="4144973650" ref="phone>index"/>
+    <file name="u3062_states-r.png" crc="6828679" ref="phone>index"/>
+    <file name="u3067_states.png" crc="488458833" ref="phone>index"/>
+    <file name="u3067_states-a.png" crc="75124069" ref="phone>index"/>
+    <file name="u3068_states.png" crc="146420105" ref="phone>index"/>
+    <file name="u3068_states-a.png" crc="73756675" ref="phone>index"/>
+    <file name="u3069_states.png" crc="379477101" ref="phone>index"/>
+    <file name="u3069_states-a.png" crc="3913694569" ref="phone>index"/>
+    <file name="u2993-4.png" crc="4094066175" ref="phone>index"/>
+    <file name="u3021-34.png" crc="501707237" ref="phone>index"/>
+    <file name="u3018.png" crc="3802278152" ref="phone>index"/>
+    <file name="u3018-r.png" crc="3802278152" ref="phone>index"/>
+    <file name="u2997.png" crc="4137941006" ref="phone>index"/>
+    <file name="u2997-r.png" crc="4137941006" ref="phone>index"/>
+    <file name="u2996.png" crc="483391606" ref="phone>index"/>
+    <file name="u2996-r.png" crc="483391606" ref="phone>index"/>
+    <file name="u2336-4.png" crc="369742727" ref="tablet>index"/>
+    <file name="u2340-6.png" crc="4234403334" ref="tablet>index"/>
+    <file name="u2345_states.png" crc="3913427140" ref="tablet>index"/>
+    <file name="u2345_states-r.png" crc="4290384989" ref="tablet>index"/>
+    <file name="u2350_states.png" crc="3782744557" ref="tablet>index"/>
+    <file name="u2350_states-a.png" crc="4120116964" ref="tablet>index"/>
+    <file name="u2351_states.png" crc="191576881" ref="tablet>index"/>
+    <file name="u2351_states-a.png" crc="231748346" ref="tablet>index"/>
+    <file name="u2352_states.png" crc="429406041" ref="tablet>index"/>
+    <file name="u2352_states-a.png" crc="4178584038" ref="tablet>index"/>
+    <file name="u2276-4.png" crc="183347030" ref="tablet>index"/>
+    <file name="u2304-28.png" crc="4214012523" ref="tablet>index"/>
+    <file name="u2301.png" crc="296417466" ref="tablet>index"/>
+    <file name="u2301-r.png" crc="296417466" ref="tablet>index"/>
+    <file name="u2280.png" crc="3800962314" ref="tablet>index"/>
+    <file name="u2280-r.png" crc="3800962314" ref="tablet>index"/>
+    <file name="u2279.png" crc="879127" ref="tablet>index"/>
+    <file name="u2279-r.png" crc="879127" ref="tablet>index"/>
+    <file name="u718-4.png" crc="190077464" ref="index"/>
+    <file name="u417_states.png" crc="3913427140" ref="index"/>
+    <file name="u417_states-r.png" crc="4290384989" ref="index"/>
+    <file name="u1816_states.png" crc="3832782839" ref="index"/>
+    <file name="u1816_states-a.png" crc="65484409" ref="index"/>
+    <file name="u1817_states.png" crc="4254206417" ref="index"/>
+    <file name="u1817_states-a.png" crc="3968609376" ref="index"/>
+    <file name="u1818_states.png" crc="62800329" ref="index"/>
+    <file name="u1818_states-a.png" crc="366242791" ref="index"/>
+    <file name="u1471-4.png" crc="183347030" ref="index"/>
+    <file name="u715-20.png" crc="157050525" ref="index"/>
+    <file name="u650.png" crc="296417466" ref="index"/>
+    <file name="u650-r.png" crc="296417466" ref="index"/>
+    <file name="u649.png" crc="3800962314" ref="index"/>
+    <file name="u649-r.png" crc="3800962314" ref="index"/>
+    <file name="u411-5.png" crc="4150431140" ref="index"/>
+    <file name="u748.png" crc="3994244322" ref="index"/>
+    <file name="u748-r.png" crc="3994244322" ref="index"/>
+    <file name="u411-52.png" crc="3902049525" ref="index"/>
+    <file name="u718-42.png" crc="4240113350" ref="index"/>
+    <file name="u417_states2.png" crc="3913427140" ref="index"/>
+    <file name="u417_states-r2.png" crc="4290384989" ref="index"/>
+    <file name="u1816_states2.png" crc="3832782839" ref="index"/>
+    <file name="u1816_states-a2.png" crc="65484409" ref="index"/>
+    <file name="u1817_states2.png" crc="4254206417" ref="index"/>
+    <file name="u1817_states-a2.png" crc="3968609376" ref="index"/>
+    <file name="u1818_states2.png" crc="62800329" ref="index"/>
+    <file name="u1818_states-a2.png" crc="366242791" ref="index"/>
+    <file name="u1471-42.png" crc="183347030" ref="index"/>
+    <file name="u715-202.png" crc="367775561" ref="index"/>
+    <file name="u6502.png" crc="296417466" ref="index"/>
+    <file name="u650-r2.png" crc="296417466" ref="index"/>
+    <file name="u6492.png" crc="3800962314" ref="index"/>
+    <file name="u649-r2.png" crc="3800962314" ref="index"/>
+    <file name="u7482.png" crc="3994244322" ref="index"/>
+    <file name="u748-r2.png" crc="3994244322" ref="index"/>
+  </folder>
+  <folder name="tablet">
+    <folder name="css">
+      <file name="index.css" crc="4066013965" ref="tablet>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
+    </folder>
+    <file name="index.html" crc="4280796776" seo="true" mt="1553842871791" redirect="true"/>
+  </folder>
+  <folder name="phone">
+    <folder name="css">
+      <file name="index.css" crc="473311160" ref="phone>index"/>
+      <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
+    </folder>
+    <file name="index.html" crc="3798170539" seo="true" mt="1553844455947" redirect="true"/>
+  </folder>
+  <file name="index.html" crc="472920865" seo="true" mt="1553842871715" redirect="true"/>
+</manifest>
