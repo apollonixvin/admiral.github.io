@@ -1,7 +1,7 @@
-<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="admiral.com" resolutions="1x" timestamp="1553844544707">
+<manifest alg="2" build="2018.1.0.386" opt="false" iceEnabled="true" iceMarkupVersion="2" iceEnabledOptions="link,responsive,cachebuster,textStyling" exportTarget="other" domain="admiral.com" resolutions="1x" timestamp="1554141940273">
   <folder name="css">
     <file name="site_global.css" crc="4283886908"/>
-    <file name="index.css" crc="408136256" ref="index"/>
+    <file name="index.css" crc="4013882227" ref="index"/>
     <file name="nomq_index.css" crc="4036570479" ref="index"/>
   </folder>
   <folder name="scripts">
@@ -9,11 +9,11 @@
     <file name="museutils.js" crc="340535759" ref="phone>index:tablet>index:index"/>
     <file name="whatinput.js" crc="86476730" ref="phone>index:tablet>index:index"/>
     <file name="museconfig.js" crc="4286661555" ref="phone>index:tablet>index:index"/>
+    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="webpro.js" crc="4059564322" ref="phone>index:tablet>index:index"/>
     <file name="musewpslideshow.js" crc="3862962738" ref="phone>index:tablet>index:index"/>
     <file name="jquery.museoverlay.js" crc="4147669564" ref="phone>index:tablet>index:index"/>
     <file name="touchswipe.js" crc="4075097462" ref="phone>index:tablet>index:index"/>
-    <file name="jquery.watch.js" crc="51536988" ref="phone>index:tablet>index:index"/>
     <file name="form_check.php" crc="4020933626" ref="phone>index"/>
     <file name="form_throttle.php" crc="4259590256" ref="phone>index"/>
     <file name="form_process.php" crc="37464564" ref="phone>index"/>
@@ -144,17 +144,17 @@
   </folder>
   <folder name="tablet">
     <folder name="css">
-      <file name="index.css" crc="4066013965" ref="tablet>index"/>
+      <file name="index.css" crc="4256795945" ref="tablet>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="tablet>index"/>
     </folder>
-    <file name="index.html" crc="4280796776" seo="true" mt="1553842871791" redirect="true"/>
+    <file name="index.html" crc="3782982249" seo="true" mt="1554141848830" redirect="true"/>
   </folder>
   <folder name="phone">
     <folder name="css">
-      <file name="index.css" crc="473311160" ref="phone>index"/>
+      <file name="index.css" crc="4265332151" ref="phone>index"/>
       <file name="nomq_index.css" crc="3824530138" ref="phone>index"/>
     </folder>
-    <file name="index.html" crc="3798170539" seo="true" mt="1553844455947" redirect="true"/>
+    <file name="index.html" crc="4215716990" seo="true" mt="1554141807701" redirect="true"/>
   </folder>
-  <file name="index.html" crc="472920865" seo="true" mt="1553842871715" redirect="true"/>
+  <file name="index.html" crc="465650374" seo="true" mt="1554141796827" redirect="true"/>
 </manifest>
